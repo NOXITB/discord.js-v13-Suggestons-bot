@@ -1,0 +1,18 @@
+{
+  "name": "solar-suggestions",
+  "version": "1.0.0",
+  "description": "Solar's suggestion system made by Solar Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rayz",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord.js": "^13.0.0-dev.1816a93b1b1b2bae47e8651e76fa53699de8421d",
+    "fs": "^0.0.1-security",
+    "quick.db": "^7.1.3",
+    "util": "^0.12.4"
+  }
+}

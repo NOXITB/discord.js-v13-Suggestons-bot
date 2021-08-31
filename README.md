@@ -1,19 +1,4 @@
 <br />
-<p align="center">
-  <a href="https://github.com/rayzdev/solar-suggestions">
-    <img src="https://i.imgur.com/0Ys1Q7F.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Solar Suggestions</h3>
-
-  <p align="center">
-    Suggestion Bot for Discord | Made by Solar Development
-    <br />
-    <a href="https://github.com/SolarDevelopmentTeam"><strong>Organization »</strong></a>
-  </p>
-</p>
-
-
 
 # Installation
 
@@ -51,4 +36,4 @@
 
 # Support
 
-[Discord](https://discord.gg/NhCc8SDxrh)
+[Discord](https://discord.gg/fWhXNkhQNj)
